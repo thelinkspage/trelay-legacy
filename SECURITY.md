@@ -4,7 +4,7 @@
 
 Do **not** open a public issue for anything that could compromise users or deployments. Issues are public right away, which makes coordinated fixes harder.
 
-Use **[private vulnerability reporting](https://github.com/trelay-dev/trelay/security)** on this repository instead: open the **Security** tab, then **Report a vulnerability**. That starts a private thread with maintainers so details stay off the public tracker until there is a fix.
+Use **[private vulnerability reporting](https://github.com/thelinkspage/trelay-legacy/security)** on this repository instead: open the **Security** tab, then **Report a vulnerability**. That starts a private thread with maintainers so details stay off the public tracker until there is a fix.
 
 We do not publish a separate security email. GitHub’s flow above is the right channel for this project.
 

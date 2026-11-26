@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This is the legacy Trelay codebase.** Trelay is being succeeded by **[thelinks.page](https://thelinks.page)**, an open-source (AGPL-3.0) rewrite that combines link-in-bio pages with a full URL toolkit. Development continues at **[thelinkspage/thelinks](https://github.com/thelinkspage/thelinks)**, which will ship a Trelay importer. This repo is kept as a reference implementation and will be archived once the importer lands.
+
 <p align="center">
   <img src="frontend/static/assets/logo.png" alt="Trelay Logo" width="80" height="80" />
 </p>
@@ -5,8 +8,8 @@
 <h1 align="center">Trelay</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/go-mod/go-version/trelay-dev/trelay" alt="Go Version" />
-  <img src="https://img.shields.io/github/license/trelay-dev/trelay" alt="License" />
+  <img src="https://img.shields.io/github/go-mod/go-version/thelinkspage/trelay-legacy" alt="Go Version" />
+  <img src="https://img.shields.io/github/license/thelinkspage/trelay-legacy" alt="License" />
   <img src="https://img.shields.io/badge/version-v2.0-blue" alt="Version" />
   <img src="https://img.shields.io/badge/frontend-SvelteKit-ff3e00" alt="Frontend" />
   <img src="https://img.shields.io/badge/runtime-Bun-fbf0df" alt="Runtime" />
@@ -41,8 +44,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/trelay-dev/trelay.git
-cd trelay
+git clone https://github.com/thelinkspage/trelay-legacy.git && cd trelay-legacy
 
 # Configure environment
 cp env.example .env
